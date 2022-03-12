@@ -24,3 +24,7 @@ control, usando las IPs asignada por la VPN.
 Todo debe correr sobre sistemas operativos GNU/Linux, BSD o Unix y si la aplicación elegida necesita
 SO Windows será la única excepción. Tambien sobre el protocolo HTTPS, puede usar OpenSSL para
 generar el certificado o Let’s Encrypt si lo implementa en una VPS.
+
+
+Integrantes:
+Geoffrey Hernandez 7690-14-3807
