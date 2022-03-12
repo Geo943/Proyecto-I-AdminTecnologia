@@ -7,3 +7,5 @@ master_user= 'proyecto',
 master_password= 'proyecto123', 
 master_log_file= 'mysql-bin.000007', 
 master_log_pos= 1218;
+
+
